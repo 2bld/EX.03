@@ -14,3 +14,4 @@ elif cam1== "D":
         print("Você sobiu a montanha e encontrou um tesouro 🤑")
     if camd1 == "V":
         print("Você tentou voltar e se perdeu na floresta 💀")
+
