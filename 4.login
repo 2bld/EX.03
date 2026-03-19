@@ -7,3 +7,4 @@ elif user== "convidado" and pas== "":
     print("Acesso restrito")
 else:
     print("Acessso negado 🤚")
+
