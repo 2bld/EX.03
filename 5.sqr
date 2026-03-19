@@ -1,0 +1,10 @@
+print("Digite as coordenadas do seu ponto e descubra se ele está dentro do quadrado 🤓")
+cordx= int(input("X: "))
+cordy= int(input("Y: "))
+if cordx>=0 and cordx<=10 and cordy>=0 and cordy<=10:
+    if cordx==0 or cordx==10 or cordy==0 or cordy==10 and cordx>=0 and cordx<=10 and cordy>=0 and cordy<=10:
+        print("na fronteira ")
+    else:
+        print("Dentro 😛")
+else:
+    print("Fora ☹️")
