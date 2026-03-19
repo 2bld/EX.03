@@ -5,3 +5,4 @@ elif num<10:
     print("Seu número é menor que 10")
 else:
     print("Seu número é maior que 50")
+
