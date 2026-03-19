@@ -8,3 +8,4 @@ if cordx>=0 and cordx<=10 and cordy>=0 and cordy<=10:
         print("Dentro 😛")
 else:
     print("Fora ☹️")
+
