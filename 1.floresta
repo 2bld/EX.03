@@ -1,0 +1,16 @@
+print("Você está em uma floresta e precisa escolher um caminho para seguir. Você pode escolher: ")
+cam1= input("esquerda (E) ou direita(D).")
+if cam1== "E":
+    print("Você encontrou um rio ♒")
+    came1= input("Opções: Atravessar o rio (A) ou voltar (V) ")
+    if came1 == "A":
+        print("Você atravessou o rio e chegou em uma vila segura! 🏠")
+    if came1 == "V":
+        print("Você tentou voltar e se perdeu na floresta 💀")
+elif cam1== "D":
+    print("Você encontrou uma montanha 🗻")
+    camd1= input("Opções: Subir a montanha (S) ou voltar (V) ")
+    if camd1 == "S":
+        print("Você sobiu a montanha e encontrou um tesouro 🤑")
+    if camd1 == "V":
+        print("Você tentou voltar e se perdeu na floresta 💀")
